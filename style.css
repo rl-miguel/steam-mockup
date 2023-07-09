@@ -1,0 +1,30 @@
+/* https://colorhunt.co/palette/f5efe6e8dfcaaebdca7895b2 */
+
+.header{
+    height:13vh;
+    width:100vw;
+    background-color:#E8DFCA;
+    
+}
+
+body{
+    background-color:#F5EFE6;
+}
+
+.header-mainlinks{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    gap:20px;
+    font-size:12px;
+    margin-right:260px;
+}
+
+.header-sublinks{
+    display:flex;
+    justify-content:flex-end;
+    align-items:flex-start;
+    gap:20px;
+    margin-right:500px;
+    margin-top:-62px;
+}
