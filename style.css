@@ -18,6 +18,16 @@ body{
     gap:20px;
     font-size:12px;
     margin-right:260px;
+
+    
+}
+.underlined{
+    color:#7895B2;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-decoration-color: #7895B2;
+    -webkit-text-decoration-color: #7895B2;
+    
 }
 
 .header-sublinks{
